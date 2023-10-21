@@ -1,5 +1,5 @@
 {
-    "name": "platform/platform",
+    "name": "zhy/platform",
     "description": "platform",
     "autoload": {
         "psr-4": {

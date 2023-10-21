@@ -1,5 +1,5 @@
 {
-    "name": "platform/platform",
+    "name": "woniu/platform",
     "description": "platform",
     "autoload": {
         "psr-4": {

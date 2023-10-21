@@ -1,0 +1,16 @@
+{
+    "name": "platform/platform",
+    "description": "platform",
+    "autoload": {
+        "psr-4": {
+            "Plathform\\Plathform\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "奔跑的蜗牛",
+            "email": "1142272030@qq.com"
+        }
+    ],
+    "require": {}
+}

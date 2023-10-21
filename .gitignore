@@ -1,6 +1,7 @@
 /.idea
 /.vscode
 /vendor
+test.php
 *.log
 .env
 !.gitignore
